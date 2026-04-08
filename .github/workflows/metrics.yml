@@ -15,7 +15,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: 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
 
           # Options
           user: mycallai
